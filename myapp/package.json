@@ -2,7 +2,7 @@
   "name": "myapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://harshalsc.github.io/myapp",
+  "homepage": "https://harshalsc.github.io/myapp",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.12.0",
