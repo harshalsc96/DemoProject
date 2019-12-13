@@ -1,0 +1,48 @@
+.container {
+    width:100%;
+    overflow: hidden;
+}
+
+.left-container {
+    width: 48%;
+    float: left;
+    height: max-content;
+    border-radius: 15px;
+    background-color: blanchedalmond;
+    margin: 1%;
+}
+
+.left-container h1{
+    text-align: center;
+    font-family: cursive;
+}
+
+.left-container ul {
+    width: 100;
+    list-style: none;
+    
+}
+
+.left-container ul li{
+    margin: 0 auto;
+    margin-bottom:3px;
+    width:50%;
+    background-color: beige;
+    font-size: 30px;
+    font-family: monospace;
+    border-radius: 10px;
+    padding: 3px;
+}
+
+.left-container li:hover{
+    background-color: darkgreen;
+    color: white;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 700px) {
+    
+    .left-container {
+        width: 100%;
+    }
+}

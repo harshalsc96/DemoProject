@@ -1,0 +1,59 @@
+.myapp-sidePanel {
+    background-color: #fbf6f3;
+    width: 20%;
+    height: 100%;
+    float: left;
+    position: relative;
+}
+
+.myapp-sidePanel-filter {
+    margin: 0px 20px 0px 20px;
+}
+
+.myapp-dropDown {
+    height: 40px;
+    width: 100%;
+    font-size: 15px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin-top: 10px;
+}
+
+.myapp-sidePanel-sliders input {
+    width: 100%;
+}
+
+.myapp-sidePanel-title {
+    font-weight: 100;
+    width: 100%;
+}
+
+.myapp-facilities input {
+    float: right;
+}
+.min-max {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.min-max span {
+    border: 4px solid white;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.min-max span:hover {
+    background-color: green;
+    color: white;
+    border-color: green;
+}
+
+.priceDiv {
+    display: none;
+    width: 40px;
+    height: 20px;
+    border: 2px solid black;
+}
