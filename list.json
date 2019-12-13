@@ -1,0 +1,50 @@
+[ 
+    {
+        "id": 1,
+        "name": "Strawberry"
+    },
+    {
+        "id": 2,
+        "name": "Apples"
+    },
+    {
+        "id": 3,
+        "name": "Mango"
+    },
+    {
+        "id": 4,
+        "name": "BlueBerry"
+    },
+    {
+        "id": 5,
+        "name": "Mushroom"
+    },
+    {
+        "id": 6,
+        "name": "Banana"
+    },
+    {
+        "id": 7,
+        "name": "PineApple"
+    },
+    {
+        "id": 8,
+        "name": "Bakery and Bread"
+    },
+    {
+        "id": 9,
+        "name": "Meat and Seafood"
+    },
+    {
+        "id": 10,
+        "name": "Pasta and Rice"
+    },
+    {
+        "id": 11,
+        "name": "Oils andCondiments"
+    },
+    {
+        "id": 12,
+        "name": "Frozen Foods"
+    }
+] 
